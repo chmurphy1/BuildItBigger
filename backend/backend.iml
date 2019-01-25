@@ -30,7 +30,6 @@
     <orderEntry type="module" module-name="JavaJokeLibrary" exported="" />
     <orderEntry type="module" module-name="JavaJokeLibrary" exported="" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: endpoints-framework-2.0.9" level="project" />
-    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: javax.inject-1" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: google-api-client-appengine-1.21.0" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: google-oauth-client-appengine-1.21.0" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: google-api-client-servlet-1.21.0" level="project" />
@@ -67,7 +66,6 @@
     <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: transaction-api-1.1" level="project" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: guava-jdk5-17.0" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: endpoints-framework-2.0.9" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: javax.inject-1" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: google-api-client-appengine-1.21.0" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: google-oauth-client-appengine-1.21.0" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: google-api-client-servlet-1.21.0" level="project" />
@@ -104,7 +102,6 @@
     <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: transaction-api-1.1" level="project" />
     <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: guava-jdk5-17.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="Gradle: endpoints-framework-2.0.9" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: javax.inject-1" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="Gradle: google-api-client-appengine-1.21.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="Gradle: google-oauth-client-appengine-1.21.0" level="project" />
     <orderEntry type="library" exported="" scope="TEST" name="Gradle: google-api-client-servlet-1.21.0" level="project" />
